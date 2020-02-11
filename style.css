@@ -1,6 +1,6 @@
 body {
     margin: 0 0 2em;
-    background-color: lightgray;
+    background-color: rgb(226, 224, 224);
     font-family: sans-serif;
     text-align: justify;
 }
@@ -33,7 +33,7 @@ body {
   
   time {
     padding: 5px;
-    background-color: gray;
+    background-color: rgb(107, 107, 107);
     color: white;
     font-size: 200%;
     font-weight: bold;
